@@ -1,4 +1,4 @@
-module github.com/joptim/go-mediaplayer
+module github.com/joptim/beep-utils
 
 go 1.16
 

@@ -1,7 +1,7 @@
 package streamer
 
 import (
-	"github.com/joptim/go-mediaplayer/buffers"
+	"github.com/joptim/beep-utils/buffers"
 	"math"
 	"os"
 	"testing"

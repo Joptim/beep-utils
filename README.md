@@ -1,11 +1,11 @@
-# go-mediaplayer
+# beep-utils
 This package provides custom buffers, streamers and facades of 
 [faiface/beep](http://github.com/faiface/beep).
 
 ## Install
 
 ```bash
-go get github.com/Joptim/go-mediaplayer
+go get github.com/Joptim/beep-utils
 ```
 
 ## Build

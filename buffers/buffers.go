@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/faiface/beep"
 	"github.com/faiface/beep/mp3"
-	"github.com/joptim/go-mediaplayer/reader"
+	"github.com/joptim/beep-utils/reader"
 	"sync"
 )
 

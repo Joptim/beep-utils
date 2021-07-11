@@ -1,7 +1,7 @@
 package buffers
 
 import (
-	"github.com/joptim/go-mediaplayer/reader"
+	"github.com/joptim/beep-utils/reader"
 	"testing"
 )
 
